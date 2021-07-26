@@ -1,2 +1,2 @@
 # NRT-MONITOR
-Will be updated soon.
+The detailed code description is still being written and will be updated as soon as possible.
