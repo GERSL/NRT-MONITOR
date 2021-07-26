@@ -1,4 +1,4 @@
-function rec_cg = NRTMOLD_Pixel(rec_pre, clrx, clry, pid, adj_rmse, T_cg, t_span, preLength,iFFactor)
+function rec_cg = NRTMONIOR_Pixel(rec_pre, clrx, clry, pid, adj_rmse, T_cg, t_span, preLength,iFFactor)
 %% 
 %     This function use a recursive Forgetting Factor approach to detect
 % changes continuiously. Developed by Rong Shang, 2020/08/25.
