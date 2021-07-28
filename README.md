@@ -1,5 +1,5 @@
 # NRT-MONITOR
-We developed an algorithm for Near-Real-Time MOnitoring of laNd dIsturbance based on Time-series of harmOnized Reflectance (NRT-MONITOR) from Landsats 7-8 and Sentinel-2 data at a 30-m spatial resolution. 
+We developed an algorithm for Near-Real-Time MOnitoring of laNd dIsturbance based on Time-series of harmOnized Reflectance (NRT-MONITOR) [(Shang et al., 2021)] from Landsats 7-8 and Sentinel-2 data at a 30-m spatial resolution. 
 
 Increasing the temporal frequency of high-resolution observations and improving the time efficiency of the NRT monitoring algorithm are the two key solutions to reduce the time lag and provide management-related land change information. 
 
@@ -16,4 +16,6 @@ The update of NRT land disturbance monitoring starts from the M file (***main_NR
 
 ## Reference
 
-Shang, R., Zhu, Z., 2019. [Harmonizing Landsat 8 and Sentinel-2: A time-series-based reflectance adjustment approach](https://www.sciencedirect.com/science/article/pii/S0034425719304584). *Remote Sensing of Environment*. 235, 111439.
+Rong Shang, Zhe Zhu, 2019. [Harmonizing Landsat 8 and Sentinel-2: A time-series-based reflectance adjustment approach](https://www.sciencedirect.com/science/article/pii/S0034425719304584). *Remote Sensing of Environment*. 235, 111439.
+
+Rong Shang, Zhe Zhu, Junxue Zhang, Shi Qiu Zhiqiang Yang, Tian Li, Xiucheng Yang, and Su Ye, 2021. [Near-real-time monitoring of land disturbance with harmonized Landsats 7-8 and Sentinel-2 data]. Submitted.
