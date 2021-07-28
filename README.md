@@ -12,6 +12,6 @@ The NRT-MONITOR algorithm can monitor land disturbance in near-real-time with an
 The update of NRT land disturbance monitoring starts from the M file (***main_NRT_MONITOR.m***). It needs to read the TRA-adjusted [(Shang and Zhu, 2019)](https://www.sciencedirect.com/science/article/pii/S0034425719304584) and outlier-removed observations (***Sample_Data.mat***) and the previous monitoring results ended in the year 2014 (***Sample_previousMonitoring_end2014.mat***). The monitored results will be saved as a MAT file (***Sample_results_updatefrom2015.mat***).
 
 
-##Reference
+## Reference
 
 Shang, R., Zhu, Z., 2019. [Harmonizing Landsat 8 and Sentinel-2: A time-series-based reflectance adjustment approach](https://www.sciencedirect.com/science/article/pii/S0034425719304584). *Remote Sensing of Environment*. 235, 111439.
