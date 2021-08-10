@@ -18,4 +18,4 @@ The update of NRT land disturbance monitoring starts from the M file (***main_NR
 
 Rong Shang, Zhe Zhu, 2019. [Harmonizing Landsat 8 and Sentinel-2: A time-series-based reflectance adjustment approach](https://www.sciencedirect.com/science/article/pii/S0034425719304584). *Remote Sensing of Environment*. 235, 111439.
 
-Rong Shang, Zhe Zhu, Junxue Zhang, Shi Qiu Zhiqiang Yang, Tian Li, Xiucheng Yang, and Su Ye, 2021. Near-real-time monitoring of land disturbance with harmonized Landsats 7-8 and Sentinel-2 data. *Submitted*.
+Rong Shang, Zhe Zhu, Junxue Zhang, Shi Qiu Zhiqiang Yang, Tian Li, Xiucheng Yang, 2021. Near-real-time monitoring of land disturbance with harmonized Landsats 7-8 and Sentinel-2 data. *Submitted*.
